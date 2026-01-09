@@ -7,7 +7,7 @@ Currently a **Second-year Software Engineering** student at <a href="https://www
 - **Tools & Frameworks**: Git, GitHub, Node.js, React Native
 
 ## 🧑‍💻 Projects
-- **Asteroid Game** - A simple **JavaFX game** that allows the user to control a ship to shoot asteroids
+- **Asteroid Game** - A JavaFX-based game that enables players to control a spacecraft and destroy incoming asteroids
 - **Truform App** - A **real time form tracking application** that accurately counts a user's bodyweight excercise repetitions
 
 ## 🔭 At the moment
@@ -24,7 +24,6 @@ Currently a **Second-year Software Engineering** student at <a href="https://www
 ## 📫 How to reach me
 - LinkedIn --> [Michael's LinkedIn](https://www.linkedin.com/in/michael-chukwunnonso-madu-54727337b/)
 - Email--> michael.madu914@gmail.com
-- 
 <!--
 **michael-0077/michael-0077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
