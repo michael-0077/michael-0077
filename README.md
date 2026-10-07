@@ -13,7 +13,7 @@ Currently a **Second-year Software Engineering** student at <a href="https://www
 ## 🔭 At the moment
 - Taking an online **Java Programming** course from the **University of Helinski**
 - **Full time** Software Engineering student 
-- **Part time** employee at <a href="https://www.townhallsocial.com/"><b><u>TownHall Social Eatery </u></b></a>
+- **Part time** employee at <a https://pinksburgers.com/><b><u>Pinks Burgers</u></b></a>
 - Finishing up the TrueFrom App!
 
 ## 🌱 Always Evolving
